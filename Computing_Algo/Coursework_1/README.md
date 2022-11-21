@@ -1,3 +1,3 @@
 
-#CS917 Foundations of Computing
-##Algorithms Coursework
+###CS917 Foundations of Computing
+Algorithms Coursework
