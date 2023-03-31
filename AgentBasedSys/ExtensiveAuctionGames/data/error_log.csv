@@ -1,0 +1,55 @@
+2023-03-30 00:23:58.502004;0;<module 'bots.u2238887' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/u2238887.py'>;initialisation;module 'bots.u2238887' has no attribute 'Bot'
+2023-03-30 00:40:11.292755;0;rule_bot_2-8;bidding;name 'random' is not defined
+2023-03-30 01:01:45.514889;0;<module 'bots.vickery_bot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/vickery_bot.py'>;initialisation;module 'bots.vickery_bot' has no attribute 'Bot'
+2023-03-30 01:02:18.269542;0;vickrey_bot-5;bidding;'list' object has no attribute 'keys'
+2023-03-30 01:38:23.415660;0;vickrey_bot-5;bidding;list index out of range
+2023-03-30 01:39:29.396660;0;vickrey_bot-5;bidding;list index out of range
+2023-03-30 01:39:59.239929;0;vickrey_bot-5;bidding;"can only concatenate str (not ""int"") to str"
+2023-03-30 01:40:17.524234;0;vickrey_bot-5;bidding;"can only concatenate str (not ""int"") to str"
+2023-03-30 01:40:45.083044;0;vickrey_bot-5;bidding;list index out of range
+2023-03-30 01:41:34.312221;2;vickrey_bot-5;bidding;list indices must be integers or slices, not dict
+2023-03-30 01:42:14.333558;2;vickrey_bot-5;bidding;'last_bid'
+2023-03-30 01:42:45.824791;2;vickrey_bot-5;bidding;'last_bid'
+2023-03-30 01:51:32.373067;0;min_max_bot-5;bidding;'Bot' object has no attribute 'get_bid'
+2023-03-30 02:19:05.306818;0;<module 'bots.q_bot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/q_bot.py'>;initialisation;module 'bots.q_bot' has no attribute 'Bot'
+2023-03-30 02:19:18.870090;0;<module 'bots.q_bot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/q_bot.py'>;initialisation;__init__() missing 1 required positional argument: 'my_bot_details'
+2023-03-30 02:19:28.312330;0;q-bot-6;bidding;name 'state' is not defined
+2023-03-30 11:17:40.899101;0;q-bot-6;bidding;name 'state' is not defined
+2023-03-30 11:24:51.690567;0;<module 'bots.experiment.MDPbot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/experiment/MDPbot.py'>;initialisation;__init__() missing 2 required positional arguments: 'name' and 'budget'
+2023-03-30 11:25:12.641531;0;MDPbot-6;bidding;'Bot' object has no attribute 'budget'
+2023-03-30 11:27:15.142387;0;MDPbot-6;bidding;'list' object has no attribute 'items'
+2023-03-30 11:29:45.131091;0;MDPbot-6;bidding;'list' object has no attribute 'items'
+2023-03-30 11:31:37.003157;3;MDPbot-6;bidding;'int' object is not subscriptable
+2023-03-30 12:04:39.969376;3;MDPbot-6;bidding;'int' object is not subscriptable
+2023-03-30 12:10:00.675654;1;MDPbot-6;bidding;'int' object is not subscriptable
+2023-03-30 12:50:35.438987;0;<module 'bots.experiment.Nashbot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/experiment/Nashbot.py'>;initialisation;__init__() missing 2 required positional arguments: 'name' and 'budget'
+2023-03-30 12:51:13.457661;0;<module 'bots.experiment.Nashbot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/experiment/Nashbot.py'>;initialisation;__init__() missing 2 required positional arguments: 'name' and 'budget'
+2023-03-30 12:51:33.130832;0;<module 'bots.experiment.Nashbot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/experiment/Nashbot.py'>;initialisation;__init__() missing 2 required positional arguments: 'name' and 'budget'
+2023-03-30 12:52:08.548742;0;Nash Bot-7;bidding;'last_bid_amount'
+2023-03-30 13:58:12.042604;0;Nash Bot-7;bidding;'last_bid_amount'
+2023-03-30 18:09:04.384933;0;<module 'bots.experiment.Nashbot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/experiment/Nashbot.py'>;initialisation;module 'bots.experiment.Nashbot' has no attribute 'Bot'
+2023-03-30 18:14:12.705001;0;<module 'bots.experiment.Nashbot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/experiment/Nashbot.py'>;initialisation;module 'bots.experiment.Nashbot' has no attribute 'Bot'
+2023-03-30 18:14:38.465907;0;nash_bot-6;bidding;'id'
+2023-03-30 18:24:11.241632;0;nash_bot-6;bidding;shapes (6,) and (1001,) not aligned: 6 (dim 0) != 1001 (dim 0)
+2023-03-30 18:26:09.333932;0;nash_bot-6;bidding;shapes (1,6) and (1001,) not aligned: 6 (dim 1) != 1001 (dim 0)
+2023-03-30 18:34:43.801833;0;nash_bot-6;bidding;shapes (1,7) and (1001,) not aligned: 7 (dim 1) != 1001 (dim 0)
+2023-03-30 20:05:12.664059;0;nash_bot-6;bidding;shapes (1,7) and (1001,) not aligned: 7 (dim 1) != 1001 (dim 0)
+2023-03-30 21:56:38.833182;0;<module 'bots.experiment.mixed_bot' from '/Users/abishek/Documents/MSCS/Agent Based Systems/ExtensiveAuctionGames/bots/experiment/mixed_bot.py'>;initialisation;__init__() missing 2 required positional arguments: 'bot_id' and 'budget'
+2023-03-30 21:56:56.158272;0;nash_bot-6;bidding;shapes (1,7) and (1001,) not aligned: 7 (dim 1) != 1001 (dim 0)
+2023-03-30 21:57:24.496468;0;mixed_bot-6;bidding;get_state() takes 11 positional arguments but 12 were given
+2023-03-30 21:58:13.981232;0;mixed_bot-6;bidding;unhashable type: 'dict'
+2023-03-30 22:02:41.031061;0;mixed_bot-6;bidding;"can only concatenate str (not ""dict"") to str"
+2023-03-30 22:03:01.012422;0;mixed_bot-6;bidding;unhashable type: 'dict'
+2023-03-30 22:05:35.739525;0;mixed_bot-6;bidding;'mixed_bot'
+2023-03-30 22:08:31.779359;0;mixed_bot-6;bidding;'mixed_bot'
+2023-03-31 11:01:26.778532;0;DQNbot-6;bidding;unhashable type: 'slice'
+2023-03-31 11:07:13.173912;0;DQNbot-6;bidding;unhashable type: 'slice'
+2023-03-31 11:15:51.931308;0;DQNbot-6;bidding;'int' object is not iterable
+2023-03-31 11:16:00.806010;0;DQNbot-6;bidding;'int' object is not iterable
+2023-03-31 11:16:29.876742;0;DQNbot-6;bidding;'list' object has no attribute 'values'
+2023-03-31 11:34:42.744868;0;DQNbot-6;bidding;'list' object has no attribute 'values'
+2023-03-31 11:35:50.845471;0;DQNbot-6;bidding;division by zero
+2023-03-31 11:36:43.661558;0;DQNbot-6;bidding;division by zero
+2023-03-31 11:37:24.646647;0;DQNbot-6;bidding;float division by zero
+2023-03-31 11:38:25.424825;0;DQNbot-6;bidding;float division by zero
+2023-03-31 11:38:58.667630;0;DQNbot-6;bidding;float division by zero
